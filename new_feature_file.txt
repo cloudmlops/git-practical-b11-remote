@@ -1,1 +1,2 @@
 Adding this line in a new feature branch
+Adding another line in a new feature branch
